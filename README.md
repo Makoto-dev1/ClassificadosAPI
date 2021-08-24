@@ -1,5 +1,5 @@
 # ClassificadosAPI
-Api com arquitetura CQRS desenvolvida durante o curso técnico desenvolvimento de sistemas no Senai Informática. ]
+Api com arquitetura CQRS desenvolvida durante o curso técnico desenvolvimento de sistemas no Senai Informática. 
 
 Logo abaixo temos um relatório sobre o scan de segurança feito pelo software "AppScanGo" da empresa HCL.
 
